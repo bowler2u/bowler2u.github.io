@@ -1,0 +1,16 @@
+@media only screen and (max-width: 375px) {
+
+	header .colorlib-navbar-brand .colorlib-logo {
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #ffdd59;
+    font-weight: 400;
+    letter-spacing: 5px;
+    padding: 7px;
+    display: block;
+    text-align: center;
+    position: relative;
+    padding-left: 62px;
+	}
+		
+}
