@@ -7276,7 +7276,7 @@ body {
   font-size: 18px;
   line-height: 1.8;
   font-weight: 400;
-  color: #8c8c8c;
+  color: #ebebeb;
   position: relative; }
   body:after {
     position: fixed;
@@ -7341,7 +7341,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #fff; }
+  color: #a5d5f5; }
   a:hover {
     text-decoration: none;
     color: #ffdd59; }
@@ -7349,7 +7349,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: #fff;
+  color: #ffdd59;
   font-weight: 400; }
 
 .text-primary {
@@ -7939,6 +7939,7 @@ header {
     .exp-wrap .desc .location {
       margin-bottom: 0; }
   .exp-wrap .year {
+		color: #fff;
     width: 150px; }
 
 .progress-wrap {
@@ -8483,6 +8484,10 @@ padding-left: 10px;}
 
 .contact-section .contact-info p a {
   color: #ffdd59; }
+
+.contactSpot {
+    margin-left: 10%!important;
+}
 
 .block-9 .form-control {
   outline: none !important;
