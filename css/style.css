@@ -7926,7 +7926,7 @@ header {
   margin-bottom: 3em; }
 
 .exp-wrap {
-  width: 100%;
+  width: 80%;
   border-bottom: 1px solid #1a1a1a;
   float: left; }
   .exp-wrap .desc, .exp-wrap .year {
