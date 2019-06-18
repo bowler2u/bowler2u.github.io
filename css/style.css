@@ -7997,6 +7997,16 @@ header {
   .services .media-body .heading {
     font-size: 22px; }
 
+#toTop{
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  cursor: pointer;
+  display: none;
+  background-color: #ffdd59!important;
+  border-color: #fff;
+}
+
 .form-group label {
   color: #fff; }
 
