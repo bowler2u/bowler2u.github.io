@@ -8004,6 +8004,7 @@ header {
   cursor: pointer;
   display: none;
   background-color: #ffdd59!important;
+  border-radius: 12px; 
   border-color: #fff;
 }
 
