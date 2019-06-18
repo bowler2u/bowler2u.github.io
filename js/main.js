@@ -201,7 +201,7 @@ $(document).ready(function($) {
 	};
 	pageProgress();
 
-	$('body').append('<div id="toTop" class="btn btn-info"><span class="glyphicon glyphicon-chevron-up"></span> Back to Top</div>');
+	$('body').append('<div id="toTop" class="btn btn-info"><span class="glyphicon glyphicon-chevron-up"></span>^</div>');
 	$(window).scroll(function () {
 		if ($(this).scrollTop() != 0) {
 			$('#toTop').fadeIn();
